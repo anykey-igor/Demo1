@@ -1,0 +1,212 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          description: "deploy_dev"
+          id: "deploy_dev"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "ubuntu"
+      - basicSSHUserPrivateKey:
+          description: "jenkins_worker_node"
+          id: "j_worker"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: SYSTEM
+          username: "ubuntu"
+      - string:
+          description: "gitHub_token"
+          id: "gitHub_token"
+          scope: SYSTEM
+          secret: "{AQAAABAAAAAwU1VlikiM0ksniFyFHSTk+YpBx2ear+oYAFpnmVCFnJUsrC/6IfLBykkDGfnPceM6nWaw1d+1CbvGd5gKnczXKg==}"
+      - usernamePassword:
+          description: "git_ssh_token"
+          id: "git_ssh_token"
+          password: "{AQAAABAAAAAwqUkIliz/UgcAfq5UjF1IkGyecaa3HvSic8TXVtc5OuTgiIe8ywyO21c5eJ6VAPvBoRayKQLC82v2X17KAj8h7A==}"
+          scope: GLOBAL
+          username: "git_ssh_token"
+      - usernamePassword:
+          description: "dockerHub-user"
+          id: "dockerHub-user"
+          password: "{AQAAABAAAAAQq6sQYlI8nQ0gRkv2Eq2JTQQ8CcLzSC3xjwPrbq6CRhU=}"
+          scope: GLOBAL
+          username: "ianikeiev"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    globalMatrix:
+      permissions:
+      - "USER:Agent/Build:anykey"
+      - "USER:Agent/Configure:anykey"
+      - "USER:Agent/Connect:anykey"
+      - "USER:Agent/Create:anykey"
+      - "USER:Agent/Delete:anykey"
+      - "USER:Agent/Disconnect:anykey"
+      - "USER:Credentials/Create:anykey"
+      - "USER:Credentials/Delete:anykey"
+      - "USER:Credentials/ManageDomains:anykey"
+      - "USER:Credentials/Update:anykey"
+      - "USER:Credentials/View:anykey"
+      - "USER:Job/Build:anykey"
+      - "USER:Job/Cancel:anykey"
+      - "USER:Job/Configure:anykey"
+      - "USER:Job/Create:anykey"
+      - "USER:Job/Delete:anykey"
+      - "USER:Job/Discover:anykey"
+      - "USER:Job/Move:anykey"
+      - "USER:Job/Read:anykey"
+      - "USER:Job/Workspace:anykey"
+      - "USER:Overall/Administer:anykey"
+      - "USER:Overall/Read:anykey"
+      - "USER:Run/Delete:anykey"
+      - "USER:Run/Replay:anykey"
+      - "USER:Run/Update:anykey"
+      - "USER:SCM/Tag:anykey"
+      - "USER:View/Configure:anykey"
+      - "USER:View/Create:anykey"
+      - "USER:View/Delete:anykey"
+      - "USER:View/Read:anykey"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  globalNodeProperties:
+  - envVars:
+      env:
+      - key: "GIT_APP_REPO"
+        value: "https://github.com/anykey-igor/test-fastapi.git"
+      - key: "IMAGE"
+        value: "ianikeiev/fastapi"
+      - key: "PROD_IP"
+        value: "35.158.101.144"
+      - key: "PROD_USER"
+        value: "ubuntu"
+  labelAtoms:
+  - name: "built-in"
+  - name: "jenkins_node"
+  - name: "ubuntu"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  nodes:
+  - permanent:
+      labelString: "ubuntu"
+      launcher:
+        ssh:
+          credentialsId: "j_worker"
+          host: "3.68.68.137"
+          port: 22
+          sshHostKeyVerificationStrategy:
+            manuallyTrustedKeyVerificationStrategy:
+              requireInitialManualTrust: false
+      name: "jenkins_node"
+      nodeDescription: "Jenkins_node"
+      numExecutors: 2
+      remoteFS: "/home/ubuntu/jenkins"
+      retentionStrategy: "always"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "anykey"
+        name: "Ihor Anikeiev"
+        properties:
+        - "apiToken"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - mailer:
+            emailAddress: "anikeev.ihor@gmail.com"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "knownHostsFileVerificationStrategy"
+  globalJobDslSecurityConfiguration:
+    useScriptSecurity: true
+  sSHD:
+    port: -1
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildStepOperation:
+    enabled: false
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    configs:
+    - credentialsId: "gitHub_token"
+      name: "gitserv"
+    hookUrl: "http://3.67.204.21:8080/github-webhook/"
+  gitSCM:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  globalTimeOutConfiguration:
+    operations:
+    - "abortOperation"
+  junitTestResultStorage:
+    storage: "file"
+  locale:
+    ignoreAcceptLanguage: false
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://jenkins.younet.com.ua/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  timestamper:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
